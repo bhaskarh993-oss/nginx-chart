@@ -1,1 +1,6 @@
-
+apiVersion: v2
+name: nginx-chart
+description: Helm chart for the Nginx Kubernetes application
+type: application
+version: 0.1.0
+appVersion: "1.27"
